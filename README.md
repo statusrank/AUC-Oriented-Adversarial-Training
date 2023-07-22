@@ -45,3 +45,9 @@ For examples:
 python3 test.py --eps=8 --alpha=2 --attack_iters=10 --attack_type=LAP2 --dataset=mnist --model_name=mnist_auc_new_pgd_pgd_0.1
 python3 test.py --eps=8 --alpha=2 --attack_iters=10 --attack_type=LDP2 --dataset=mnist --model_name=mnist_auc_new_pgd_pgd_0.1
 ```
+
+## Citation
+Please cite our paper if you use this code in your own work.
+
+## Contact
+If there are any questions, contact baoshilong@iie.ac.cn or yangzhiyong21@ucas.ac.cn
